@@ -9,7 +9,7 @@ hide: true
 | Role         | Name    | Repo Location | Stream | Repo Name |
 |--------------|---------|---------------|--------|-----------|
 | Scrum Master | Ahaan   |               |        |           |
-| Scrummer     | Arnav   |               |        |           |
+| Scrummer     | Arnav   |https://github.com/Arnav210/Arnav_2026               |        |Arnav_2026           |
 | Scrummer     | Nikhil  |               |        |           |
 | Scrummer     | Spencer |               |        |           |
 | Scrummer     | Xavier  |               |        |           |
