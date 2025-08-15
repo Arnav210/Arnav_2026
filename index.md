@@ -14,6 +14,11 @@ hide: true
 | Scrummer     | Spencer |               |        |           |
 | Scrummer     | Xavier  |               |        |           |
 
+## Tools Setup
+
+<a href="{{site.baseurl}}/toolssetup" class="button small" style="background-color: #2A7DB1">
+    <span style="color: #000000">Tools Setup</span>
+</a>
 
 ## Links to Learning
 
