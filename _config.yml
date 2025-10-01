@@ -1,9 +1,9 @@
 title: Student
 description: "Class of 2026"
-owner_name: Ahaan Vaidyanathan
-github_username: Ahaanv19 
-github_repo: "student" 
-baseurl: "/student" 
+owner_name: Arnav Mittal
+github_username: Arnav210
+github_repo: "Arnav_2026" 
+baseurl: "/Arnav_2026" 
 future: true
 remote_theme: jekyll/minima
 minima:
